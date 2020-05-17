@@ -1,5 +1,6 @@
 {
     "name": "clarkerubber/openings-trainer",
+    "description": "Make openings trainer puzzles for lichess",
     "license": "AGPL-3.0-or-later",
     "require": {}
 }
