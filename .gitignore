@@ -8,3 +8,5 @@ GMOpenings.txt
 scrapeGames.php
 
 output
+
+/vendor/
